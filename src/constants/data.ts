@@ -5,7 +5,7 @@ export const resumeData = {
     "location": "Pune, India",
     "email": "tusharthakre147@gmail.com",
     "phone": "+91 77249 99905",
-    "linkedin": "https://linkedin.com/in/tusharthakre",
+    "linkedin": "https://www.linkedin.com/in/tushar-thakre-4a895a245/",
     "summary": "Results-driven ServiceNow Developer with 1.5+ years of hands-on experience designing and delivering enterprise-grade solutions on the Now Platform. Proven track record of translating complex business requirements into efficient, scalable technical implementations — on time and within scope. Deep expertise in ITSM modules, Flow Designer automation, Service Catalog configuration, and full-stack ServiceNow scripting (server-side and client-side). Recognized with the \"You Are A STAR\" award for delivering impactful ServiceNow enhancements under tight deadlines. Thrives in Agile/SAFe environments with a strong focus on continuous improvement, stakeholder collaboration, and technical excellence."
   },
   "experience": [
